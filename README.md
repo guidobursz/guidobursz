@@ -13,6 +13,6 @@ https://wheretowatch-frontend-vercel.vercel.app/
 ## 📇 Useful Links
 
 <p align='left'>
-<a href="https://twitter.com/guidobursz"><img height="30" src="https://github.com/Raagh/Raagh/raw/master/twitter.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://twitter.com/guidobursz"><img height="30" src="https://github.com/guidobursz/guidobursz/raw/main/twitter.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/guido-bursztyn/"><img height="30" src="https://github.com/guidobursz/guidobursz/raw/main/linkedin.png?raw=true"></a>&nbsp;&nbsp;
 </p>

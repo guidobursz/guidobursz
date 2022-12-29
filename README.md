@@ -6,17 +6,13 @@
 - 🔭 I’m currently working with NodeJS & ReactJS
 
 - 📫 How to reach me: guidobursztyn@hotmail.com
-<!--
-**guidobursz/guidobursz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Deploy
+https://wheretowatch-frontend-vercel.vercel.app/
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+## 📇 Useful Links
 
-- 💬 Ask me about ...
- ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align='left'>
+<a href="https://twitter.com/guidobursz"><img height="30" src="https://github.com/guidobursz/guidobursz/raw/master/twitter.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/guido-bursztyn/"><img height="30" src="https://github.com/guidobursz/guidobursz/raw/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
+</p>

@@ -7,7 +7,7 @@
 
 - 📫 How to reach me: guidobursztyn@hotmail.com
 
-## Deploy
+## Deploys
 https://wheretowatch-frontend-vercel.vercel.app/
 
 ## 📇 Useful Links

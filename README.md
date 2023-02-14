@@ -8,7 +8,7 @@
 - 📫 How to reach me: guidobursztyn@hotmail.com
 
 ## Deploys
-https://wheretowatch-frontend-vercel.vercel.app/
+https://wheretowatch-frontend-vercel.vercel.app/  
 https://simpsons-game-guidobursz.vercel.app/
 
 ## 📇 Useful Links

@@ -9,6 +9,7 @@
 
 ## Deploys
 https://wheretowatch-frontend-vercel.vercel.app/
+https://simpsons-game-guidobursz.vercel.app/
 
 ## 📇 Useful Links
 

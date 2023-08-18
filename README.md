@@ -2,8 +2,7 @@
 ### Hello 👋
 
 - 😄 I’m self-taught Software Engineer from Argentina.
-- 🤔 I’m currently looking for my first job oportunity.
-- 🔭 I’m currently working with NodeJS & ReactJS
+- 🤔 I’m Currently working at Grupo Informatico Tesys
 
 - 📫 How to reach me: guidobursztyn@hotmail.com
 
